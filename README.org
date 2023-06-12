@@ -1,0 +1,10 @@
+* esrap-liquid
+
+Common Lisp packrat parser
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mabragor/esrap-liquid.git   |
+| commit  | 35f7855  |
+| systems | esrap-liquid |
+|---------+-------------------------------------------|
+
